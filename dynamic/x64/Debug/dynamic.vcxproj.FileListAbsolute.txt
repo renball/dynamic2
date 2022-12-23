@@ -1,0 +1,5 @@
+C:\Users\q\source\repos\dynamic\x64\Debug\dynamic.vcxproj.AssemblyReference.cache
+C:\Users\q\source\repos\dynamic\x64\Debug\dynamic.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\q\source\repos\dynamic\x64\Debug\dynamic.MyForm.resources
+C:\Users\q\source\repos\dynamic\x64\Debug\dynamic.vcxproj.GenerateResource.cache
+C:\Users\q\source\repos\dynamic\x64\Debug\dynamic.exe

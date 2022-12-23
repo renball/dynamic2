@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\q\source\repos\dynamic\MyForm.cpp(48): warning C4700: использована неинициализированная локальная переменная "x"
+C:\Users\q\source\repos\dynamic\MyForm.cpp(94): warning C4700: использована неинициализированная локальная переменная "x"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  dynamic.vcxproj -> C:\Users\q\source\repos\dynamic\x64\Debug\dynamic.exe
